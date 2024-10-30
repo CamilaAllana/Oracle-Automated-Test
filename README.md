@@ -1,6 +1,6 @@
 ## Oracle-Automated-Test
 
- Cypress Automated Test for QA Application
+# Cypress Automated Test for QA Application
 
 Este repositório contém um teste automatizado usando Cypress para validar as funcionalidades principais de um aplicativo de controle de pedidos e gráfico de produtos. O teste se concentra em capturar e verificar dados exibidos em um gráfico, alterar dados da tabela e garantir que as alterações se reflitam corretamente tanto na tabela quanto no gráfico.
 
